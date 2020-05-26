@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "374980232627",
+    "firebase_url": "https://soci-c7812.firebaseio.com",
+    "project_id": "soci-c7812",
+    "storage_bucket": "soci-c7812.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374980232627:android:13670965914d0ef32677c6",
+        "android_client_info": {
+          "package_name": "com.socitymanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "374980232627-db3unmeb0nt5jbshm2f603sbf6uqapo5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDy6X_RGDE45uTmzqcwhjgJDNt8nHEYpcg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "374980232627-db3unmeb0nt5jbshm2f603sbf6uqapo5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
